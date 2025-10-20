@@ -1,0 +1,56 @@
+name: Bug report
+description: Something isn’t working
+title: '[bug] brief summary'
+labels: bug
+assignees: []
+body:
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Pre-check
+      options:
+        - label: I’ve searched existing issues
+          required: true
+        - label: I can reproduce this with the latest version
+          required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: A clear description of the problem
+      placeholder: Describe the bug
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      description: Minimal reproducible steps/code
+      placeholder: 1) … 2) … 3) …
+      render: bash
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: App/Package version
+      placeholder: e.g. v1.2.3
+    validations:
+      required: true
+  - type: input
+    id: env
+    attributes:
+      label: Environment
+      placeholder: OS, Node version, browser, etc.
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / screenshots
+      render: text
+

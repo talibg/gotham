@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question / Q&A
+    url: https://github.com/talibg/gotham/discussions/categories/q-a
+    about: Use Discussions for general questions
+  - name: Security reports
+    url: mailto:security@talibg.com
+    about: Please report security issues privately
+

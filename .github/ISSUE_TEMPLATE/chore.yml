@@ -1,0 +1,25 @@
+name: Chore / maintenance
+description: Non-feature work (refactors, deps, CI, docs)
+title: '[chore] brief summary'
+labels: chore
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+    validations:
+      required: true
+  - type: textarea
+    id: plan
+    attributes:
+      label: Acceptance criteria / plan
+      placeholder: Checklist, definition of done, test plan
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: Tests updated/added
+        - label: Docs updated
+        - label: CI passes locally
+
