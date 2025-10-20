@@ -1,0 +1,42 @@
+name: Feature request
+description: Suggest an idea or enhancement
+title: '[feat] brief summary'
+labels: enhancement
+assignees: []
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: Problem / use-case
+      description: What problem does this solve?
+      placeholder: I want to …
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      placeholder: Describe the change, API, or UI
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+  - type: dropdown
+    id: scope
+    attributes:
+      label: Scope
+      options:
+        - Small (≤1 day)
+        - Medium (≤1 week)
+        - Large (>1 week)
+  - type: checkboxes
+    id: impact
+    attributes:
+      label: Impact
+      options:
+        - label: Backwards compatible
+        - label: Requires documentation updates
+        - label: Requires migration
+
