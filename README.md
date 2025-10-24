@@ -1,6 +1,6 @@
 # talibg
 
-[github](https://github.com/talibguyani) · [linkedin](https://www.linkedin.com/in/talibg)
+[github](https://github.com/talibg) · [linkedin](https://www.linkedin.com/in/talibguyani)
 
 ## experience
 
@@ -18,5 +18,5 @@
 
 ## Projects
 
-- **[talibg](https://github.com/talibguyani/talibg)** — a minimalist dark themed portfolio
+- **[gotham](https://github.com/talibg/gotham)** — a minimalist dark themed portfolio
 - ************ — currently in stealth mode
