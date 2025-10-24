@@ -1,3 +1,5 @@
+import { Analytics } from '@vercel/analytics/next'
+import { SpeedInsights } from '@vercel/speed-insights/next'
 import type { Metadata } from 'next'
 import { Geist, Geist_Mono, Permanent_Marker } from 'next/font/google'
 import './globals.css'
@@ -34,6 +36,8 @@ export default function RootLayout({
                 className={`${geistSans.variable} ${geistMono.variable} ${permanentMarker.variable} antialiased bg-neutral-950 text-neutral-200`}
             >
                 <main className="mx-auto max-w-[767px] px-6 py-16">{children}</main>
+                <Analytics />
+                <SpeedInsights />
             </body>
         </html>
     )
