@@ -4,5 +4,10 @@
         "desc": "a minimalist dark themed portfolio",
         "href": "https://github.com/talibg/gotham"
     },
+    {
+        "name": "typesnip",
+        "desc": "a private, local TypeScript snippet manager",
+        "href": "https://typesnip.com"
+    },
     { "name": "********", "desc": "currently in stealth mode" }
 ]
