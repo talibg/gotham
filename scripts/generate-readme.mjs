@@ -38,8 +38,14 @@ function sectionProjects(projects = []) {
         const desc = p.desc ?? ''
         const href = p.href
         const title = href ? `**[${name}](${href})**` : `**${name}**`
+        const codename = p.codename
+            ? p.codeHref
+                ? `(codename [${p.codename}](${p.codeHref}))`
+                : `(codename ${p.codename})`
+            : ''
         const line = desc ? `${title} — ${desc}` : title
-        lines.push(`- ${line}`)
+        const withCodename = codename ? `${line} ${codename}` : line
+        lines.push(`- ${withCodename}`)
     }
     return lines.join('\n').trimEnd()
 }

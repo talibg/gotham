@@ -1,13 +1,17 @@
 [
     {
-        "name": "gotham",
+        "name": "talibg",
         "desc": "a minimalist dark themed portfolio",
-        "href": "https://github.com/talibg/gotham"
+        "href": "https://talibg.com",
+        "codename": "gotham",
+        "codeHref": "https://github.com/talibg/gotham"
     },
     {
         "name": "typesnip",
         "desc": "a private, local TypeScript snippet manager",
-        "href": "https://typesnip.com"
+        "href": "https://typesnip.com",
+        "codename": "asgard",
+        "codeHref": "https://github.com/talibg/asgard"
     },
     { "name": "********", "desc": "currently in stealth mode" }
 ]

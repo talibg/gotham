@@ -7,4 +7,10 @@ export type ExperienceItem = {
     dates: string
 }
 
-export type ProjectItem = { name: string; desc: string; href?: string }
+export type ProjectItem = {
+    name: string
+    desc: string
+    href?: string
+    codename?: string
+    codeHref?: string
+}

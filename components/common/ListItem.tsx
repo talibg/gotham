@@ -5,6 +5,7 @@ type Props = {
     sub1?: string
     sub2?: string
     href?: string
+    extra?: React.ReactNode
 }
 
 const ExtLink = ({ href, children, title }: { href: string; children: React.ReactNode; title?: string }) => (
@@ -20,11 +21,12 @@ const ExtLink = ({ href, children, title }: { href: string; children: React.Reac
     </a>
 )
 
-export default function ListItem({ title, sub1, sub2, href }: Props) {
+export default function ListItem({ title, sub1, sub2, href, extra }: Props) {
     return (
         <div>
             <h3 className="text-lg leading-6 font-medium text-white whitespace-nowrap overflow-hidden text-ellipsis">
                 {href ? <ExtLink href={href}>{title}</ExtLink> : title}
+                {extra ? <span className="ml-2 text-neutral-300">{extra}</span> : null}
             </h3>
             {sub1 ? (
                 <p className="mt-1 leading-5 text-neutral-300 whitespace-nowrap overflow-hidden text-ellipsis">

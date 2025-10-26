@@ -19,4 +19,5 @@
 ## Projects
 
 - **[gotham](https://github.com/talibg/gotham)** — a minimalist dark themed portfolio
+- **[typesnip](https://typesnip.com)** — a private, local TypeScript snippet manager (codename [asgard](https://github.com/talibg/asgard))
 - ************ — currently in stealth mode
