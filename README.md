@@ -20,4 +20,5 @@
 
 - **[talibg](https://talibg.com)** — a minimalist dark themed portfolio (codename [gotham](https://github.com/talibg/gotham))
 - **[typesnip](https://typesnip.com)** — a private, local TypeScript snippet manager (codename [asgard](https://github.com/talibg/asgard))
+- **[paycheck-planner](https://paycheck-planner.com)** — Free Paycheck Budget Planner (codename [elysium](https://github.com/talibg/elysium))
 - ************ — currently in stealth mode

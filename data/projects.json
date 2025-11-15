@@ -13,5 +13,12 @@
         "codename": "asgard",
         "codeHref": "https://github.com/talibg/asgard"
     },
+    {
+        "name": "paycheck-planner",
+        "desc": "Free Paycheck Budget Planner",
+        "href": "https://paycheck-planner.com",
+        "codename": "elysium",
+        "codeHref": "https://github.com/talibg/elysium"
+    },
     { "name": "********", "desc": "currently in stealth mode" }
 ]
