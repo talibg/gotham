@@ -1,4 +1,4 @@
-import { Github, Linkedin } from 'lucide-react'
+import { Github, Linkedin, X } from 'lucide-react'
 import header from '@/data/header.json'
 
 export default function HeaderSection() {
@@ -28,7 +28,7 @@ export default function HeaderSection() {
             <nav className="flex items-center gap-4 text-neutral-300">
                 {h.links.map((l) => {
                     const label = (l.label || '').toLowerCase()
-                    const Icon = label === 'github' ? Github : label === 'linkedin' ? Linkedin : null
+                    const Icon = label === 'github' ? Github : label === 'linkedin' ? Linkedin : X
                     return (
                         <a
                             aria-label={l.label}

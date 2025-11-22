@@ -20,5 +20,18 @@
         "codename": "elysium",
         "codeHref": "https://github.com/talibg/elysium"
     },
-    { "name": "********", "desc": "currently in stealth mode" }
+    {
+        "name": "learn wolof",
+        "desc": "Learn Wolof from Senegal and The Gambia",
+        "href": "https://learnwolof.com",
+        "codename": "wakanda",
+        "codeHref": "https://github.com/talibg/wakanda"
+    },
+    {
+        "name": "the fallacy guide",
+        "desc": "A modern, comprehensive guide to logical fallacies.",
+        "href": "https://fallacyguide.com",
+        "codename": "keystone",
+        "codeHref": "https://github.com/talibg/keystone"
+    }
 ]

@@ -1,6 +1,6 @@
 # talibg
 
-[github](https://github.com/talibg) · [linkedin](https://www.linkedin.com/in/talibguyani)
+[github](https://github.com/talibg) · [linkedin](https://www.linkedin.com/in/talibguyani) · [x](https://www.x.com/talibguyani)
 
 ## experience
 
@@ -21,4 +21,5 @@
 - **[talibg](https://talibg.com)** — a minimalist dark themed portfolio (codename [gotham](https://github.com/talibg/gotham))
 - **[typesnip](https://typesnip.com)** — a private, local TypeScript snippet manager (codename [asgard](https://github.com/talibg/asgard))
 - **[paycheck-planner](https://paycheck-planner.com)** — Free Paycheck Budget Planner (codename [elysium](https://github.com/talibg/elysium))
-- ************ — currently in stealth mode
+- **[learn wolof](https://learnwolof.com)** — Learn Wolof from Senegal and The Gambia (codename [wakanda](https://github.com/talibg/wakanda))
+- **[the fallacy guide](https://fallacyguide.com)** — A modern, comprehensive guide to logical fallacies. (codename [keystone](https://github.com/talibg/keystone))
