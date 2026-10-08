@@ -1,19 +1,23 @@
 # talibg
 
-[github](https://github.com/talibg) · [linkedin](https://www.linkedin.com/in/talibguyani) · [x](https://www.x.com/talibguyani)
+[github](https://github.com/talibg) · [linkedin](https://www.linkedin.com/in/talibguyani)
 
 ## experience
 
+- **level financial technology ltd**  
+  Software Engineer • permanent • hybrid  
+  04/2026 – present
+
 - **scout guarantee ltd**  
   Software Engineer • contract • remote  
-  04/2025 – 09/2025
+  04/2025 – 03/2026
 
 - **real world health ltd**  
-  Software Engineer • permenant • remote  
+  Software Engineer • permanent • remote  
   07/2022 – 03/2025
 
 - **xanda ltd**  
-  Software Engineer • permenant • remote  
+  Software Engineer • permanent • remote  
   03/2015 – 03/2022
 
 ## Projects

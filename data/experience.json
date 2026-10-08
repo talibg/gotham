@@ -1,17 +1,25 @@
 [
     {
+        "company": "level financial technology ltd",
+        "role": "",
+        "position": "Software Engineer",
+        "type": "permanent",
+        "location": "hybrid",
+        "dates": "04/2026 – present"
+    },
+    {
         "company": "scout guarantee ltd",
         "role": "",
         "position": "Software Engineer",
         "type": "contract",
         "location": "remote",
-        "dates": "04/2025 – 09/2025"
+        "dates": "04/2025 – 03/2026"
     },
     {
         "company": "real world health ltd",
         "role": "",
         "position": "Software Engineer",
-        "type": "permenant",
+        "type": "permanent",
         "location": "remote",
         "dates": "07/2022 – 03/2025"
     },
@@ -19,7 +27,7 @@
         "company": "xanda ltd",
         "role": "",
         "position": "Software Engineer",
-        "type": "permenant",
+        "type": "permanent",
         "location": "remote",
         "dates": "03/2015 – 03/2022"
     }
